@@ -1,6 +1,6 @@
 # Book World
 
-![Book World Banner](images/logo.png)
+![Book World Banner](images/logoo.png)
 
 ## Overview
 
