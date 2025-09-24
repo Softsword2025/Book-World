@@ -66,7 +66,7 @@ Book-World/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/book-world.git
+git clone https://github.com/softsword2025/book-world.git
 ```
 
 2. Navigate to the project folder:
@@ -135,7 +135,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots
 
 ![Homepage](images/Playmat-_0002_Mistborn.png)
-![Author Section](images/J._R._R._Tolkien,_ca._1925.jpg)
+![Author Section](images/The-Lich-King_world-of-warcraft_1920.jpg)
 
 ---
 
