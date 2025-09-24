@@ -1,6 +1,6 @@
 # Book World
 
-![Book World Banner](images/ChatGPT_Image_May_29_2025_12_08_27_PM.png)
+![Book World Banner](images/dragon--logo-vector-illustration-png_96935.png)
 
 ## Overview
 
