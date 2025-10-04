@@ -136,7 +136,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![Homepage](images/wordbook.png)
 
-![Author Section](images/bookword.png)
+![Author Section](images/bookword1.png)
 
 ---
 
