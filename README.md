@@ -136,7 +136,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![Homepage](images/wordbook.png)
 
-![Author Section](images/The-Lich-King_world-of-warcraft_1920.jpg)
+![Author Section](images/bookword.png)
 
 ---
 
