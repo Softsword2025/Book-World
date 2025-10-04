@@ -124,8 +124,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-* Website: `https://your-website.com`
-* Telegram: `@bookworld`
+* Website: `(https://jawadstalker.github.io/Bookworld/test)`
+* Telegram: `@death-stalker-owen`
 * Instagram: `@bookworld.official`
 * GitHub: `github.com/bookworld`
 * Facebook: `facebook.com/bookworld`
@@ -134,7 +134,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshots
 
-![Homepage](images/Playmat-_0002_Mistborn.png)
+![Homepage](images/bookword.png)
+
 ![Author Section](images/The-Lich-King_world-of-warcraft_1920.jpg)
 
 ---
